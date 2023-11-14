@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Credit Card",
+    "assets": "assets/images/Visa.png"
+  },
+  {
+    "id": 1,
+    "name": "Paypal",
+    "assets": "assets/images/Paypal.png"
+  },
+  {
+    "id": 2,
+    "name": "Split",
+    "assets": "assets/images/Split Account Png.png"
+  },
+  {
+    "id": 3,
+    "name": "Promo Code",
+    "assets": "assets/images/Promo.png"
+  }
+]
